@@ -1,0 +1,170 @@
+{
+    "3": {
+        "type": "users.Admin",
+        "name": "3"
+    },
+    "admin": {
+        "type": "users.Admin",
+        "name": "admin"
+    },
+    "gladmin": {
+        "type": "users.Admin",
+        "name": "gladmin"
+    },
+    "1234": {
+        "type": "users.Customer",
+        "name": "1234",
+        "orders": [
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Ratatouille",
+                        "difficulty": "HARD",
+                        "price": 140,
+                        "id": 21
+                    }
+                ],
+                "id": 0,
+                "state": "CANCELLED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Ratatouille",
+                        "difficulty": "HARD",
+                        "price": 140,
+                        "id": 21
+                    },
+                    {
+                        "type": "data.Dish",
+                        "name": "Ratatouille",
+                        "difficulty": "HARD",
+                        "price": 140,
+                        "id": 21
+                    }
+                ],
+                "id": 1,
+                "state": "CANCELLED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Chernogolovka Baykal",
+                        "difficulty": "EASY",
+                        "price": 70,
+                        "id": 2
+                    }
+                ],
+                "id": 2,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Chernogolovka Baykal",
+                        "difficulty": "EASY",
+                        "price": 70,
+                        "id": 2
+                    }
+                ],
+                "id": 3,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Makarony",
+                        "difficulty": "EASY",
+                        "price": 50,
+                        "id": 4
+                    }
+                ],
+                "id": 4,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Chernogolovka Baykal",
+                        "difficulty": "EASY",
+                        "price": 70,
+                        "id": 2
+                    }
+                ],
+                "id": 5,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Chernogolovka Baykal",
+                        "difficulty": "EASY",
+                        "price": 70,
+                        "id": 2
+                    }
+                ],
+                "id": 6,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Chernogolovka Baykal",
+                        "difficulty": "EASY",
+                        "price": 70,
+                        "id": 2
+                    }
+                ],
+                "id": 7,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Dot.Hog",
+                        "difficulty": "EASY",
+                        "price": 120,
+                        "id": 1
+                    }
+                ],
+                "id": 8,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Dot.Hog",
+                        "difficulty": "EASY",
+                        "price": 120,
+                        "id": 1
+                    }
+                ],
+                "id": 9,
+                "state": "ACCEPTED"
+            },
+            {
+                "dishes": [
+                    {
+                        "type": "data.Dish",
+                        "name": "Dot.Hog",
+                        "difficulty": "EASY",
+                        "price": 120,
+                        "id": 1
+                    }
+                ],
+                "id": 10,
+                "state": "ACCEPTED"
+            }
+        ]
+    }
+}

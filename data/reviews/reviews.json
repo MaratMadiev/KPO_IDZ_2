@@ -1,0 +1,22 @@
+{
+    "2": [
+        {
+            "rating": "VERY_GOOD",
+            "reviewText": "5"
+        },
+        {
+            "reviewText": "1"
+        }
+    ],
+    "0": [
+        {
+            "reviewText": "1"
+        }
+    ],
+    "4": [
+        {
+            "rating": "VERY_GOOD",
+            "reviewText": "5"
+        }
+    ]
+}
